@@ -4,4 +4,4 @@ python -m pip install Django
 
 django-admin --version
 
-py manage.pyy runserver
+py manage.py runserver
